@@ -1,5 +1,5 @@
 # cgp-art
-Cartesian Genetic Programming Generated Art
+Cartesian Genetic Programming Generated Art implementation inspired by: https://www.cartesiangp.com/julian-miller
 
 # Run
 
